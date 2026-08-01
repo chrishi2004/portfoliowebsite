@@ -1,0 +1,94 @@
+{
+  "groups": [
+    {
+      "name": "Programming",
+      "icon": "code",
+      "skills": [
+        { "name": "TypeScript", "icon": "typescript" },
+        { "name": "Python", "icon": "python" },
+        { "name": "SQL", "icon": "database" },
+        { "name": "JavaScript", "icon": "javascript" }
+      ]
+    },
+    {
+      "name": "Backend",
+      "icon": "server",
+      "skills": [
+        { "name": "Node.js", "icon": "nodejs" },
+        { "name": "API Design", "icon": "api" },
+        { "name": "Authentication", "icon": "shield" },
+        { "name": "Data Modeling", "icon": "schema" }
+      ]
+    },
+    {
+      "name": "Frontend",
+      "icon": "layout",
+      "skills": [
+        { "name": "Next.js", "icon": "nextjs" },
+        { "name": "React", "icon": "react" },
+        { "name": "Tailwind CSS", "icon": "tailwind" },
+        { "name": "Framer Motion", "icon": "motion" }
+      ]
+    },
+    {
+      "name": "AI",
+      "icon": "brain",
+      "skills": [
+        { "name": "Prompting", "icon": "sparkles" },
+        { "name": "Model Evaluation", "icon": "chart" },
+        { "name": "Automation", "icon": "workflow" },
+        { "name": "Experimentation", "icon": "flask" }
+      ]
+    },
+    {
+      "name": "Analytics",
+      "icon": "chart",
+      "skills": [
+        { "name": "Dashboards", "icon": "barChart" },
+        { "name": "Metrics Thinking", "icon": "target" },
+        { "name": "Reporting", "icon": "fileChart" },
+        { "name": "Insight Synthesis", "icon": "insight" }
+      ]
+    },
+    {
+      "name": "Cloud",
+      "icon": "cloud",
+      "skills": [
+        { "name": "Vercel", "icon": "vercel" },
+        { "name": "Deployment", "icon": "rocket" },
+        { "name": "CDN Awareness", "icon": "network" },
+        { "name": "Environment Management", "icon": "settings" }
+      ]
+    },
+    {
+      "name": "DevOps",
+      "icon": "settings",
+      "skills": [
+        { "name": "Git", "icon": "git" },
+        { "name": "CI/CD", "icon": "pipeline" },
+        { "name": "Quality Checks", "icon": "check" },
+        { "name": "Release Hygiene", "icon": "package" }
+      ]
+    },
+    {
+      "name": "Business",
+      "icon": "briefcase",
+      "skills": [
+        { "name": "Consulting Mindset", "icon": "briefcase" },
+        { "name": "Product Thinking", "icon": "layers" },
+        { "name": "Stakeholder Communication", "icon": "users" },
+        { "name": "Presentation", "icon": "presentation" }
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "icon": "messages",
+      "skills": [
+        { "name": "Communication", "icon": "messageSquare" },
+        { "name": "Leadership", "icon": "usersRound" },
+        { "name": "Collaboration", "icon": "handshake" },
+        { "name": "Ownership", "icon": "badgeCheck" }
+      ]
+    }
+  ]
+}

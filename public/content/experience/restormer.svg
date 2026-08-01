@@ -1,0 +1,10 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#0B1120"/>
+  <rect x="100" y="100" width="1000" height="600" rx="32" fill="#111827" stroke="#334155"/>
+  <rect x="180" y="180" width="360" height="360" rx="28" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="600" y="180" width="320" height="160" rx="28" fill="#0F172A" stroke="#1E293B"/>
+  <rect x="600" y="380" width="320" height="160" rx="28" fill="#0F172A" stroke="#1E293B"/>
+  <circle cx="360" cy="360" r="90" fill="#2563EB" opacity="0.2"/>
+  <path d="M300 360L345 405L430 315" stroke="#14B8A6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="180" y="70" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="700">AD² Restormer</text>
+</svg>

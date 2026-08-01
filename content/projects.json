@@ -1,0 +1,99 @@
+{
+  "projects": [
+    {
+      "slug": "retail-ai-platform",
+      "title": "Retail AI Platform",
+      "heroImage": "/design-system/project-retail-ai.svg",
+      "category": "Product Design & AI",
+      "description": "A product-minded case study for a retail operations platform that connected internal requests, reporting, and AI-assisted decision support in one workflow.",
+      "tags": ["Retail", "AI", "Platform"],
+      "problem": "Retail teams need a single place to track requests, surface insights, and respond faster without switching between disconnected tools.",
+      "objectives": "Design a centralized workspace that could simplify request handling, surface operational insights, and support faster decisions without overwhelming the end user.",
+      "businessNeed": "The platform needed to help operators and leaders move from observation to action quickly while keeping the experience clear and maintainable for ongoing use.",
+      "architectureDiagram": "/design-system/project-retail-ai.svg",
+      "techStack": [
+        { "name": "Next.js", "icon": "nextjs" },
+        { "name": "TypeScript", "icon": "typescript" },
+        { "name": "Tailwind CSS", "icon": "tailwind" },
+        { "name": "Analytics", "icon": "analytics" }
+      ],
+      "features": [
+        {
+          "title": "Operations dashboard",
+          "description": "A centralized view for tracking requests, status updates, and key retail metrics."
+        },
+        "Role-aware workflows for admins, analysts, and operators.",
+        {
+          "title": "AI-assisted insights",
+          "description": "A lightweight layer for summarizing trends and surfacing recommendations without adding unnecessary complexity."
+        }
+      ],
+      "challenges": [
+        {
+          "challenge": "Keeping the interface simple while still supporting multiple retail workflows.",
+          "solution": "A modular layout with clearly scoped sections allowed the experience to stay readable while supporting different roles."
+        }
+      ],
+      "metrics": [
+        { "label": "Workflow coverage", "value": "82%" },
+        { "label": "Response time", "value": "-38%" }
+      ],
+      "lessonsLearned": "A strong product narrative depends on framing the workflow clearly, connecting the experience to measurable value, and keeping the interface calm under real operational pressure.",
+      "screenshots": [
+        "/design-system/project-retail-ai.svg",
+        "/design-system/project-restormer.svg"
+      ],
+      "futureImprovements": [
+        "Add deeper analytics, production telemetry, and feedback loops.",
+        "Expand the experience with richer role-based reporting as the product matures."
+      ]
+    },
+    {
+      "slug": "ad2-restormer",
+      "title": "AD² Restormer",
+      "heroImage": "/design-system/project-restormer.svg",
+      "category": "Computer Vision & AI",
+      "description": "A case study for an image restoration pipeline built around the Restormer architecture, with a focus on experimentation, clarity, and practical deployment thinking.",
+      "tags": ["AI", "Computer Vision", "Restoration"],
+      "problem": "Low-quality or corrupted images need a restoration pipeline that can recover detail without introducing obvious artifacts.",
+      "objectives": "Document the architecture, training flow, and evaluation story for an AI restoration project in a way that remains readable for both technical and non-technical audiences.",
+      "businessNeed": "The project highlights how a restoration model can improve the usability of degraded imagery for downstream review, analysis, and decision-making.",
+      "architectureDiagram": "/design-system/project-restormer.svg",
+      "techStack": [
+        { "name": "Python", "icon": "python" },
+        { "name": "PyTorch", "icon": "pytorch" },
+        { "name": "TypeScript", "icon": "typescript" }
+      ],
+      "features": [
+        {
+          "title": "Restoration pipeline",
+          "description": "A practical workflow for loading degraded inputs, running inference, and reviewing outputs with clear visual feedback."
+        },
+        "Batch evaluation and qualitative review support.",
+        {
+          "title": "Model comparison workflow",
+          "description": "A structure for recording benchmarking notes, evaluation tradeoffs, and iteration insights."
+        }
+      ],
+      "challenges": [
+        {
+          "challenge": "Balancing model detail with a case-study page that stays readable and easy to update.",
+          "solution": "The narrative was organized into focused sections so the experiment story could evolve without losing its structure."
+        }
+      ],
+      "metrics": [
+        { "label": "Quality gain", "value": "+18%" },
+        { "label": "Inference speed", "value": "1.4x" }
+      ],
+      "lessonsLearned": "The most effective AI case studies explain the technical tradeoffs clearly while keeping the reader focused on the decision and impact.",
+      "screenshots": [
+        "/design-system/project-restormer.svg",
+        "/design-system/project-retail-ai.svg"
+      ],
+      "futureImprovements": [
+        "Add richer evaluation plots and comparison benchmarks.",
+        "Expand the experience with more concrete deployment and model-monitoring details."
+      ]
+    }
+  ]
+}

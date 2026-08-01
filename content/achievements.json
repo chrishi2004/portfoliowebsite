@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "competition": "Hackathon",
+      "award": "Winner / Finalist",
+      "date": "2025",
+      "description": "Recognized for shipping a polished solution under time pressure with strong teamwork and presentation clarity.",
+      "fullDescription": "This achievement reflects the ability to work under constraints, structure an idea quickly, and present it with enough business context for reviewers to understand the impact.",
+      "certificateImage": "/content/achievements/hackathon.svg"
+    },
+    {
+      "competition": "Research / Technical Presentation",
+      "award": "Project Spotlight",
+      "date": "2025",
+      "description": "A technical presentation focused on clear explanation, product framing, and evidence-driven discussion.",
+      "fullDescription": "The project spotlight highlights how technical work can be translated into a story that is useful for both engineering audiences and non-technical stakeholders.",
+      "certificateImage": "/content/achievements/research.svg"
+    },
+    {
+      "competition": "Leadership",
+      "award": "Organizational Recognition",
+      "date": "2024",
+      "description": "Acknowledged for team coordination, communication, and reliable execution across student-led work.",
+      "fullDescription": "This recognition reflects the ability to keep a team moving, reduce confusion, and support execution in community and event settings.",
+      "certificateImage": "/content/achievements/leadership.svg"
+    },
+    {
+      "competition": "Portfolio / Delivery",
+      "award": "Design System Completion",
+      "date": "2026",
+      "description": "Documented progress in building a consistent visual system and reusable foundation for the portfolio site.",
+      "fullDescription": "This card represents the design and implementation work behind the portfolio itself, including theme tokens, reusable components, and responsive page structures.",
+      "certificateImage": "/content/achievements/design-system.svg"
+    }
+  ]
+}

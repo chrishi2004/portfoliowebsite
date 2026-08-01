@@ -1,0 +1,88 @@
+{
+  "entries": [
+    {
+      "organization": "GDG",
+      "role": "Community Contributor",
+      "teamSize": "12+",
+      "impact": [
+        "Helped coordinate event flow and speaker readiness for community sessions.",
+        "Translated technical topics into approachable takeaways for student audiences.",
+        "Supported team communication so volunteers could execute with fewer handoffs."
+      ],
+      "achievements": ["Session coordination", "Volunteer support", "Audience engagement"],
+      "gallery": [
+        {
+          "src": "/content/leadership/gdg-1.svg",
+          "alt": "GDG event scene"
+        },
+        {
+          "src": "/content/leadership/gdg-2.svg",
+          "alt": "GDG speaker flow board"
+        }
+      ]
+    },
+    {
+      "organization": "ROBOFIESTA",
+      "role": "Organizer",
+      "teamSize": "20+",
+      "impact": [
+        "Coordinated logistics for robotics-focused competition workflows.",
+        "Balanced technical needs with participant experience and event pacing.",
+        "Worked with the team to keep execution organized across moving parts."
+      ],
+      "achievements": ["Event logistics", "Participant support", "Execution discipline"],
+      "gallery": [
+        {
+          "src": "/content/leadership/robofiesta-1.svg",
+          "alt": "Robofiesta competition scene"
+        },
+        {
+          "src": "/content/leadership/robofiesta-2.svg",
+          "alt": "Robofiesta team board"
+        }
+      ]
+    },
+    {
+      "organization": "Theatre Club",
+      "role": "Production and Coordination",
+      "teamSize": "15+",
+      "impact": [
+        "Supported rehearsals, sequencing, and presentation timing.",
+        "Balanced creative direction with practical event coordination.",
+        "Helped keep the production process structured and collaborative."
+      ],
+      "achievements": ["Stage coordination", "Creative collaboration", "Process discipline"],
+      "gallery": [
+        {
+          "src": "/content/leadership/theatre-1.svg",
+          "alt": "Theatre club stage scene"
+        },
+        {
+          "src": "/content/leadership/theatre-2.svg",
+          "alt": "Theatre club rehearsal board"
+        }
+      ]
+    },
+    {
+      "organization": "MUN",
+      "role": "Delegate / Coordinator",
+      "teamSize": "25+",
+      "impact": [
+        "Prepared structured arguments and presentation flow for committee participation.",
+        "Practiced clear communication in high-context discussion settings.",
+        "Contributed to event discipline and participant readiness."
+      ],
+      "achievements": ["Public speaking", "Structured reasoning", "Event participation"],
+      "gallery": [
+        {
+          "src": "/content/leadership/mun-1.svg",
+          "alt": "MUN committee scene"
+        },
+        {
+          "src": "/content/leadership/mun-2.svg",
+          "alt": "MUN position paper board"
+        }
+      ]
+    }
+  ]
+}

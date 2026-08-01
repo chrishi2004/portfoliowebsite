@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "name": "Microsoft",
+      "issuer": "Microsoft",
+      "verificationUrl": "https://www.microsoft.com/",
+      "badge": "Microsoft Certified"
+    },
+    {
+      "name": "Google",
+      "issuer": "Google",
+      "verificationUrl": "https://www.google.com/",
+      "badge": "Google Credential"
+    },
+    {
+      "name": "DeepLearning.AI",
+      "issuer": "DeepLearning.AI",
+      "verificationUrl": "https://www.deeplearning.ai/",
+      "badge": "DeepLearning.AI"
+    },
+    {
+      "name": "Scrum",
+      "issuer": "Scrum.org",
+      "verificationUrl": "https://www.scrum.org/",
+      "badge": "Scrum Ready"
+    },
+    {
+      "name": "Great Learning",
+      "issuer": "Great Learning",
+      "verificationUrl": "https://www.mygreatlearning.com/",
+      "badge": "Great Learning"
+    }
+  ]
+}

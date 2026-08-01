@@ -1,0 +1,37 @@
+{
+  "entries": [
+    {
+      "organization": "Portfolio Projects",
+      "role": "Computer Science Engineer",
+      "duration": "2024 - Present",
+      "description": "Leading the design and build of a premium portfolio system with an emphasis on recruiter clarity, AI/product storytelling, and polished UI delivery.",
+      "skills": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+      "media": {
+        "src": "/content/experience/portfolio.svg",
+        "alt": "Portfolio project mark"
+      }
+    },
+    {
+      "organization": "Retail AI Platform",
+      "role": "Project Lead",
+      "duration": "2025",
+      "description": "Built a business-focused AI concept around decision support, forecasting, and operational visibility with product-oriented presentation.",
+      "skills": ["AI", "Analytics", "Dashboard Design", "Product Thinking"],
+      "media": {
+        "src": "/content/experience/retail-ai.svg",
+        "alt": "Retail AI platform logo"
+      }
+    },
+    {
+      "organization": "AD² Restormer",
+      "role": "AI / ML Contributor",
+      "duration": "2024 - 2025",
+      "description": "Worked on experimentation, restoration workflows, and structured technical storytelling for a model-centric case study.",
+      "skills": ["Python", "Deep Learning", "Experimentation", "Research Communication"],
+      "media": {
+        "src": "/content/experience/restormer.svg",
+        "alt": "AD2 Restormer logo"
+      }
+    }
+  ]
+}

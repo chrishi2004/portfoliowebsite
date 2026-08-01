@@ -1,0 +1,7 @@
+<svg width="1000" height="750" viewBox="0 0 1000 750" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="750" rx="36" fill="#0B1120"/>
+  <rect x="90" y="90" width="820" height="570" rx="30" fill="#111827" stroke="#334155"/>
+  <path d="M240 520C310 440 390 390 500 390C610 390 690 440 760 520" stroke="#2563EB" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="500" cy="330" r="120" fill="#14B8A6" opacity="0.18"/>
+  <text x="150" y="110" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Theatre Club Rehearsal</text>
+</svg>

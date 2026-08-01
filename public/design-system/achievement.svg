@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="48" fill="#0B1120"/>
+  <rect x="130" y="120" width="940" height="660" rx="42" fill="#111827" stroke="#334155"/>
+  <circle cx="600" cy="350" r="150" fill="#2563EB" opacity="0.18"/>
+  <circle cx="600" cy="350" r="96" fill="#2563EB"/>
+  <path d="M600 280L626 332L684 340L642 380L654 438L600 410L546 438L558 380L516 340L574 332L600 280Z" fill="#F8FAFC"/>
+  <rect x="360" y="550" width="480" height="34" rx="17" fill="#14B8A6"/>
+  <rect x="400" y="612" width="400" height="20" rx="10" fill="#475569"/>
+  <text x="600" y="725" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle">Achievement</text>
+</svg>

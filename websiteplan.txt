@@ -1,0 +1,705 @@
+This is exactly how I would approach it if I were building a **premium personal brand website**. Don't think of it as "just a portfolio." Think of it as a **digital product** with a clear user journey.
+
+The document below is written as a **Product Requirements Document (PRD)** that you can hand to an AI coding agent (Claude Code, Cursor, Windsurf, Lovable, Bolt, v0, etc.) to build the site.
+
+---
+
+# PRD: Premium Personal Portfolio Website
+
+## Project Name
+
+**Rishi Chaudhari | Portfolio**
+
+---
+
+# 1. Vision
+
+Create a premium, minimal, Apple × Stripe × Linear inspired portfolio that positions me as a future Software Engineer, AI Engineer, Technology Consultant and Business Analyst.
+
+The website should not look like a student portfolio.
+
+It should feel like a modern SaaS product built by a company.
+
+When recruiters visit, they should immediately feel:
+
+* Professional
+* Clean
+* Premium
+* Detail-oriented
+* Technical
+* Business focused
+
+---
+
+# 2. Design Philosophy
+
+The website should communicate
+
+> Simplicity × Precision × Engineering × Business
+
+Avoid unnecessary animations.
+
+Every element must have purpose.
+
+Large whitespace.
+
+Strong typography.
+
+Excellent readability.
+
+Micro interactions only.
+
+---
+
+# 3. Target Audience
+
+Primary
+
+* Recruiters
+* Hiring Managers
+* Engineering Managers
+
+Secondary
+
+* Consulting Firms
+* Startup Founders
+* Product Managers
+* Other Developers
+
+---
+
+# 4. User Journey
+
+The user journey should be:
+
+Landing
+
+↓
+
+Understand who I am
+
+↓
+
+See my work
+
+↓
+
+View leadership
+
+↓
+
+Explore projects
+
+↓
+
+Read achievements
+
+↓
+
+Download Resume
+
+↓
+
+Visit GitHub
+
+↓
+
+Contact Me
+
+Nothing should distract from this flow.
+
+---
+
+# 5. Website Architecture
+
+```
+/
+│
+├── Home
+├── About
+├── Projects
+│      ├── Retail AI Platform
+│      ├── AD² Restormer
+│      ├── Future Projects
+│
+├── Experience
+├── Leadership
+├── Achievements
+├── Skills
+├── Certifications
+├── Resume
+├── Contact
+└── 404
+```
+
+---
+
+# 6. Design Language
+
+Inspired by
+
+* Apple
+* Stripe
+* Linear
+* Vercel
+* OpenAI
+* Notion
+
+Characteristics
+
+* Minimal
+* Clean
+* Corporate
+* Soft shadows
+* Thin borders
+* Rounded corners
+* Plenty of whitespace
+
+---
+
+# 7. Color Palette
+
+Primary Background
+
+```
+#FAFAFA
+```
+
+Dark Mode
+
+```
+#0B1120
+```
+
+Cards
+
+```
+#FFFFFF
+```
+
+Primary Text
+
+```
+#111827
+```
+
+Secondary Text
+
+```
+#6B7280
+```
+
+Accent
+
+```
+#2563EB
+```
+
+Success
+
+```
+#14B8A6
+```
+
+---
+
+# 8. Typography
+
+Heading
+
+Space Grotesk
+
+Weight
+
+700
+
+Body
+
+Inter
+
+Weight
+
+400
+
+Monospace
+
+JetBrains Mono
+
+Used only for code snippets.
+
+---
+
+# 9. Animations
+
+Animation philosophy
+
+Invisible.
+
+Fast.
+
+Elegant.
+
+Use Framer Motion.
+
+Allowed
+
+✓ Fade
+
+✓ Slide
+
+✓ Scale
+
+✓ Blur
+
+✓ Opacity
+
+Avoid
+
+❌ Bounce
+
+❌ Rotate
+
+❌ Crazy parallax
+
+❌ Floating objects
+
+---
+
+# 10. Navigation
+
+Sticky
+
+Transparent initially
+
+Blur on scroll
+
+Links
+
+Home
+
+About
+
+Projects
+
+Experience
+
+Leadership
+
+Achievements
+
+Contact
+
+Resume Button
+
+Theme Toggle
+
+---
+
+# 11. Hero Section
+
+Large whitespace
+
+Professional photograph
+
+Large title
+
+```
+Hi, I'm Rishi Chaudhari.
+```
+
+Subtitle
+
+```
+Computer Science Engineer building AI-powered products and business-focused technology solutions.
+```
+
+CTA
+
+View Projects
+
+Download Resume
+
+GitHub
+
+LinkedIn
+
+Background
+
+Very subtle radial gradient.
+
+---
+
+# 12. About Section
+
+Professional introduction.
+
+Statistics cards
+
+Projects
+
+Leadership Roles
+
+Hackathons
+
+Certifications
+
+Timeline
+
+Education
+
+Career Journey
+
+---
+
+# 13. Projects Section
+
+MOST IMPORTANT SECTION
+
+Each project should be a detailed case study.
+
+Each contains
+
+Hero Image
+
+Problem
+
+Objectives
+
+Business Need
+
+Architecture Diagram
+
+Technology Stack
+
+Features
+
+Challenges
+
+Solutions
+
+Metrics
+
+Lessons Learned
+
+Screenshots
+
+GitHub
+
+Demo
+
+Future Improvements
+
+---
+
+# 14. Leadership Section
+
+Timeline Cards
+
+GDG
+
+ROBOFIESTA
+
+Theatre Club
+
+MUN
+
+Each includes
+
+Role
+
+Impact
+
+Gallery
+
+Team Size
+
+Achievements
+
+---
+
+# 15. Experience
+
+Professional Timeline
+
+Each card contains
+
+Organization
+
+Role
+
+Duration
+
+Description
+
+Skills
+
+Media
+
+---
+
+# 16. Skills
+
+Categorized.
+
+Programming
+
+Backend
+
+Frontend
+
+AI
+
+Analytics
+
+Cloud
+
+DevOps
+
+Business
+
+Soft Skills
+
+Every skill represented with icon.
+
+---
+
+# 17. Achievements
+
+Beautiful grid.
+
+Each card contains
+
+Competition
+
+Award
+
+Description
+
+Certificate
+
+Photo
+
+Date
+
+---
+
+# 18. Certifications
+
+Microsoft
+
+Google
+
+DeepLearning AI
+
+Scrum
+
+Great Learning
+
+Show badges.
+
+---
+
+# 19. Resume
+
+Embedded PDF viewer
+
+Download Button
+
+ATS Resume
+
+One click.
+
+---
+
+# 20. Contact
+
+Minimal.
+
+Email
+
+LinkedIn
+
+GitHub
+
+Phone
+
+Contact Form
+
+Location
+
+---
+
+# 21. Footer
+
+Simple.
+
+```
+Designed & Developed by
+Rishi Chaudhari
+
+©2026
+```
+
+---
+
+# 22. Performance Goals
+
+Lighthouse
+
+Performance
+
+100
+
+SEO
+
+100
+
+Accessibility
+
+100
+
+Best Practices
+
+100
+
+---
+
+# 23. Responsive
+
+Desktop First
+
+Tablet
+
+Mobile
+
+Ultra Wide
+
+---
+
+# 24. SEO
+
+Meta Title
+
+Meta Description
+
+OG Image
+
+Twitter Card
+
+Structured Data
+
+Robots.txt
+
+Sitemap
+
+Favicon
+
+---
+
+# 25. Accessibility
+
+Keyboard Navigation
+
+ARIA Labels
+
+Color Contrast
+
+Alt Text
+
+Focus States
+
+Reduced Motion
+
+---
+
+# 26. Tech Stack
+
+Next.js
+
+TypeScript
+
+TailwindCSS
+
+Framer Motion
+
+Shadcn UI
+
+Lucide Icons
+
+Vercel
+
+---
+
+# 27. Future Features
+
+Blog
+
+Dark Mode
+
+Analytics Dashboard
+
+Visitor Counter
+
+GitHub API
+
+LeetCode API
+
+Spotify Widget
+
+Timeline
+
+Project Search
+
+---
+
+# Development Roadmap (For the AI Agent)
+
+### Phase 1 — Foundation
+
+* Initialize Next.js project with TypeScript.
+* Configure Tailwind CSS, shadcn/ui, Framer Motion, and Lucide icons.
+* Set up routing, fonts, theme provider (light/dark), SEO defaults, and responsive layout.
+
+### Phase 2 — Design System
+
+* Create reusable components: Navbar, Footer, Button, Card, Section, Timeline, Badge, Modal, Project Card, Achievement Card.
+* Define spacing, colors, typography, shadows, borders, and animation tokens.
+
+### Phase 3 — Home Page
+
+* Build the Hero section with CTAs.
+* Add subtle background gradients and micro-animations.
+* Implement the About preview and statistics cards.
+
+### Phase 4 — Core Sections
+
+* Build About, Experience, Leadership, Skills, Achievements, and Certifications.
+* Use timeline and card layouts.
+* Ensure all sections are responsive.
+
+### Phase 5 — Projects
+
+* Create a reusable case-study template.
+* Add project gallery, architecture diagrams, technology stack, screenshots, GitHub, and live demo links.
+* Include filtering by category (AI, Analytics, Full Stack, Leadership).
+
+### Phase 6 — Contact & Resume
+
+* Add a contact form with validation.
+* Embed the resume viewer and provide a download button.
+* Add social links and location.
+
+### Phase 7 — Polish
+
+* Optimize images.
+* Add loading states and page transitions.
+* Complete SEO metadata, Open Graph tags, sitemap, robots.txt, and favicon.
+* Verify Lighthouse scores and accessibility.
+
+## Final Design Principle
+
+One sentence should guide every design decision:
+
+> **"If Apple were hiring an AI engineer with strong consulting and leadership experience, this is the portfolio they should expect to see."**
+
+This keeps the website focused, timeless, and professional while showcasing both your technical depth and your ability to communicate business impact.

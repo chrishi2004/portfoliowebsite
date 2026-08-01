@@ -1,0 +1,71 @@
+{
+  "fullName": "Rishi Chaudhari",
+  "heroSubtitle": "Computer Science Engineer building AI-powered products and business-focused technology solutions.",
+  "aboutIntro": [
+    "I’m Rishi Chaudhari, a Computer Science Engineer focused on building AI-powered products and business-focused technology solutions.",
+    "I like working across engineering, product, and analytics, where clear thinking and measurable outcomes matter as much as code.",
+    "My background spans leadership, projects, and technical problem solving with a strong emphasis on reliability, communication, and execution."
+  ],
+  "fullBio": [
+    "I build with a product mindset and a bias toward systems that are clear, reliable, and useful in real-world decision making.",
+    "My work sits at the intersection of software engineering, AI, analytics, and business communication, with an emphasis on practical outcomes and polished execution.",
+    "I’m especially interested in products that help teams make better decisions faster, whether the problem is operational, technical, or strategic."
+  ],
+  "educationTimeline": [
+    {
+      "period": "2022 - 2026",
+      "title": "B.Tech in Computer Science and Engineering",
+      "subtitle": "Academic foundation",
+      "description": "Focused on software development, AI, analytics, and systems thinking while building projects and portfolio work alongside academics."
+    },
+    {
+      "period": "2021 - 2022",
+      "title": "Pre-university STEM preparation",
+      "subtitle": "Core problem solving",
+      "description": "Strengthened fundamentals in mathematics, logic, and structured problem solving that now support engineering and product work."
+    }
+  ],
+  "careerJourney": [
+    {
+      "period": "2023",
+      "title": "Exploration phase",
+      "subtitle": "Learning by building",
+      "description": "Started shaping a portfolio identity around AI, full-stack development, and business-focused problem solving."
+    },
+    {
+      "period": "2024",
+      "title": "Leadership and community",
+      "subtitle": "Building with people",
+      "description": "Expanded into community coordination, event execution, and communication-heavy roles through student leadership work."
+    },
+    {
+      "period": "2025 - Present",
+      "title": "Portfolio and product focus",
+      "subtitle": "Clearer execution",
+      "description": "Refined the portfolio direction toward recruiter-friendly storytelling, case studies, and polished product presentation."
+    }
+  ],
+  "stats": {
+    "projects": [
+      { "name": "Retail AI Platform" },
+      { "name": "AD² Restormer" },
+      { "name": "Future Projects" }
+    ],
+    "leadershipRoles": [
+      { "name": "GDG" },
+      { "name": "ROBOFIESTA" },
+      { "name": "Theatre Club" },
+      { "name": "MUN" }
+    ],
+    "hackathons": [
+      { "name": "Hackathon Experience" }
+    ],
+    "certifications": [
+      { "name": "Microsoft" },
+      { "name": "Google" },
+      { "name": "DeepLearning.AI" },
+      { "name": "Scrum" },
+      { "name": "Great Learning" }
+    ]
+  }
+}
